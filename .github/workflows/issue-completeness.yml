@@ -25,7 +25,7 @@ jobs:
             Provide concise, helpful suggestions, ask clarifying questions and identify any missing information that would help resolve the issue faster.
 
             Always respond with ready-to-use markdown content (no code blocks) that can be posted directly as an issue comment.
-
+            Answer by korean.
             Sign off as AI assistant.
           prompt: |
             New issue was opened by ${{ github.event.issue.user.login }}
